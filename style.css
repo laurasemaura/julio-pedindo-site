@@ -1,0 +1,16 @@
+body{
+            background-color: rgb(214, 9, 9);
+            color: white;
+        }
+        h1{
+            color: rgb(219, 101, 101);
+        }
+        #html{
+            color: blueviolet;
+        }
+        #css{
+            color: cadetblue;
+        }
+        #JavaScript{
+            color: chocolate;
+        }
