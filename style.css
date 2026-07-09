@@ -17,45 +17,9 @@ h1{
 
 #curtidas{
 background-color: aquamarine; /* cor de fundo */
-color: aqua;/* cor na letra*/
+color: rgb(0, 34, 34);/* cor na letra*/
 padding: 5px 10px 5px 10px;  /*espaco interno */
 border: 2px solid palevioletred; /* bborda */
 border-radius: 12px;
 }
         
-
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <title>Exemplo com CSS</title>
-    <style>
-        /* Define a cor de fundo (amarelo manteiga) e a cor do texto padrão (azul bebê) */
-        body {
-            background-color: #FFFDD0; /* Amarelo Manteiga / Buttercream */
-            color: #89CFF0;            /* Azul Bebê */
-            font-family: sans-serif;   /* Apenas para deixar a fonte mais bonita */
-            padding: 20px;
-        }
-
-        /* Altera a cor do primeiro elemento usando o ID */
-        #elemento-destaque {
-            color: #FF6B6B; /* Um tom de coral/vermelho suave para contrastar */
-        }
-
-        /* Altera a cor do segundo elemento usando o ID */
-        #outro-elemento {
-            color: #4A5568; /* Um cinza escuro para dar leitura */
-        }
-    </style>
-</head>
-<body>
-
-    <h1>Meu Site Colorido</h1>
-    <p>Este texto está com a cor padrão da página (azul bebê) e o fundo está em amarelo manteiga.</p>
-
-    <h2 id="elemento-destaque">Este título usa o ID e tem uma cor diferente!</h2>
-    <p id="outro-elemento">Este parágrafo também usa um ID para mudar de cor.</p>
-
-</body>
-</html>
